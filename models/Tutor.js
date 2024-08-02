@@ -51,7 +51,7 @@ const TutorSchema = new Schema({
         type: String,
         required: true
     },
-    phone: {
+    email: {
         type: String,
         required: true
     },
